@@ -29,3 +29,5 @@ const multiplyBy5 = multiply(5);
 // 3. Prototype and Prototype Chain
 
 // function constructor, Object.create and new
+
+export const exportVariable = 13;
