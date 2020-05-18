@@ -1,0 +1,27 @@
+{
+  "name": "javascript-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node -- class-05.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notamatch/javascript-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notamatch/javascript-training/issues"
+  },
+  "homepage": "https://github.com/notamatch/javascript-training#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
